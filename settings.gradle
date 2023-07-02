@@ -1,0 +1,3 @@
+rootProject.name = 'sb-commons'
+
+include('sb-commons-test','sb-commons-ms')
